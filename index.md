@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Markdown Test
 
 ## My first markdown at GitHub Page
