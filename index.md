@@ -6,14 +6,8 @@ layout: default
 
 ## My first markdown at GitHub Page
 
-
-*   [AST](#ast)
-
-    *   [Root](#root)
-    *   [Paragraph](#paragraph)
-    *   [Blockquote](#blockquote)
-    *   [Heading](#heading)
-    *   [Code](#code)
-    *   [InlineCode](#inlinecode)
-    *   [YAML](#yaml)
-    *   [HTML](#html)
+- My first list item
+  - indented list item
+  - another one
+    - third level deep
+    
