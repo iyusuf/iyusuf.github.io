@@ -6,7 +6,7 @@ layout: default
 ## My first markdown at GitHub Page
 
 - First
-..-	 	second
+..second
 ...		- third
 
 - First again
