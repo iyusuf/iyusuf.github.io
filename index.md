@@ -6,11 +6,6 @@ layout: default
 
 ## My first markdown at GitHub Page
 
-- First
-    - second
-    - third
-
-- First again
 
 *   [AST](#ast)
 
