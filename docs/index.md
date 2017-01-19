@@ -1,6 +1,5 @@
---- 
-layout post
-title: Markdown Test
+---
+layout: default
 ---
 
 # Markdown Test
